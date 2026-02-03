@@ -1,3 +1,7 @@
+Note: g-code files ends with "2mm" uses the new feeler gauge block provide by Bambu Lab in their updated wiki page. 
+https://wiki.bambulab.com/en/h2/manual-bed-leveling
+https://wiki.bambulab.com/h2/troubleshooting/manual-bed-leveling/%E6%89%8B%E5%8A%A8%E8%B0%83%E5%B9%B3%E8%BE%85%E5%8A%A9%E5%9D%97.3mf
+
 1. **Initial Setup with Nozzle:**
 
     - The right nozzle will move directly above the first bed tramming point, and the heat bed will raise until it’s near the nozzle.
